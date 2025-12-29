@@ -71,7 +71,7 @@ Ahmad Safandi – Data Engineer & Preprocessing
 
 Farrel Maulana Irfan – Image Retrieval Developer
 
-Mohamad Mujahidin – Generative Model Developer
+Mohamad Mujahidin – 
 
 Aji Alfrian – UI/UX Developer & Integrator
 
