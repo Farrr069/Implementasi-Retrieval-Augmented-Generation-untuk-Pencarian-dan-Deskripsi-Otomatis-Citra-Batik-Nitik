@@ -19,7 +19,7 @@ Menerima deskripsi otomatis terkait filosofi, motif, atau makna visual batik
 Dataset yang digunakan adalah Batik Nitik 960, terdiri dari 960 gambar batik dengan metadata naratif dwibahasa (Indonesia & Inggris) yang menjelaskan motif, filosofi, dan nama batik. Data telah diproses dan diaugmentasi (rotasi 90°, 180°, 270°) untuk memperkaya variasi dan memperkuat kemampuan generalisasi sistem.
 
 🔗 Download Dataset:
-Batik Nitik 960 on Mendeley Data
+[Batik Nitik 960 on Mendeley Data](https://data.mendeley.com/datasets/sgh484jxzy/3)
 
 🧠 Arsitektur Sistem
 🔍 Image Retrieval
