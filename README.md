@@ -85,4 +85,4 @@ Minggu 3: Integrasi, Evaluasi, Dokumentasi & Demo
 
 🙏 Acknowledgment
 
-Proyek ini merupakan bagian dari tugas akhir program sarjana di Departemen Informatika, Universitas Muhammadiyah Malang. Sistem ini dikembangkan menggunakan framework open-source: CLIP, BLIP, dan FAISS. Terima kasih kepada para dosen pembimbing atas bimbingan dan fasilitas komputasi yang telah diberikan.
+Proyek ini merupakan final project UAS di Departemen Informatika, Universitas Muhammadiyah Malang. Sistem ini dikembangkan menggunakan framework open-source: CLIP, BLIP, dan FAISS. T
